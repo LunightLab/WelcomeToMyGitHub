@@ -43,6 +43,10 @@
   - React Native 학습자료(11월 정리예정)
 - [Documents](https://github.com/LunightLab/Documents)
   - 개인 정리자료 (삭제예정)
+- [kb-member-id-card **(private)](https://github.com/LunightLab/kb-member-id-card)  
+  - 토이프로젝트  
+- [swift-app-test](https://github.com/LunightLab/swift-app-test)  
+  - Swift 테스트용 앱  
 
 ## About LuLabTemplate
 - Lunight Lab Github Template  
